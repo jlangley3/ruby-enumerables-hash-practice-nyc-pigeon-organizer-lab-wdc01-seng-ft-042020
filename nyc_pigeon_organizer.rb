@@ -20,7 +20,7 @@ names_array = value2
  names_array.each do |name| 
         
         pigeon_list << {name => { key => [info]}}
-      
+      #pigeon_list = {name => { key => [info]}}
 
 
 memo
